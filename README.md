@@ -1,2 +1,2 @@
-# Tugas1_DMJK
-Tugas 1 - Topologi Jaringan Dasar 
+# DMJK Assignment
+Tugas Desain Manajemen Jaringan Komputer
